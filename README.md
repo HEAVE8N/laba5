@@ -69,7 +69,7 @@
 
 
 
-![Pasted image image/pl1.png](https://github.com/HEAVE8N/lab1/blob/main/Image/pl1.png)
+![Pasted image image/pl1.png](https://github.com/HEAVE8N/laba5/blob/main/Image/pl1.png)
 
 
 
@@ -131,7 +131,7 @@
 
 
 
-![Pasted image image/pl2.png](https://github.com/HEAVE8N/lab1/blob/main/Image/pl2.png)
+![Pasted image image/pl2.png](https://github.com/HEAVE8N/laba5/blob/main/Image/pl2.png)
 
 
 
@@ -195,5 +195,5 @@
 
 
 
-![Pasted image image/pl3.png](https://github.com/HEAVE8N/lab1/blob/main/Image/pl3.png)
+![Pasted image image/pl3.png](https://github.com/HEAVE8N/laba5/blob/main/Image/pl3.png)
 
