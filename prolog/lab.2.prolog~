@@ -1,0 +1,20 @@
+f([], Cur, Best, Res) :- 
+    Res is max(Cur, Best), !.
+
+f([H|T], Cur, Best, Res) :-
+    number(H), H > 0, !,
+    NextCur is Cur + 1,
+    f(T, NextCur, Best, Res).
+
+f([_|T], Cur, Best, Res) :-
+    NextBest is max(Cur, Best),
+    f(T, 0, NextBest, Res).
+
+run_task :-
+    read(L),
+    (   is_list(L) 
+    ->  f(L, 0, 0, R), write(R)
+    ;   writeln('Error: Enter a list like [1, 2, 3].')
+    ).
+
+:- run_task.
